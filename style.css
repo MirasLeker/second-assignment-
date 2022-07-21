@@ -1,0 +1,14 @@
+body{
+    
+}
+
+
+
+.figure{
+    max-width: 400px;
+    height: 400px;
+    display: flex;
+    margin-left: 26vw;
+}
+
+
